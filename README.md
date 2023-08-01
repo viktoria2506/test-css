@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Test CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run storybook` 
+It will start Storybook locally and output the address.
 
 ### `npm start`
 
